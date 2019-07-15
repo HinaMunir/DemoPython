@@ -13,3 +13,8 @@ sunny,mild,normal,True,yes
 overcast,mild,high,True,yes
 overcast,hot,normal,False,yes
 rainy,mild,high,True,no
+rainy,mild,normal,False,yes
+sunny,mild,normal,True,yes
+overcast,mild,high,True,yes
+overcast,hot,normal,False,yes
+rainy,mild,high,True,no
